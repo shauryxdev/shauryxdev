@@ -6,17 +6,13 @@
 
 <br><br>
 
-<a href="https://github.com/shauryxdev">
-<img src="https://img.shields.io/github/followers/shauryxdev?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=8B5CF6&labelColor=111827"/>
-</a>
-
-<a href="https://github.com/shauryxdev?tab=following">
-<img src="https://img.shields.io/github/following/shauryxdev?style=for-the-badge&label=FOLLOWING&logo=github&logoColor=white&color=06B6D4&labelColor=111827"/>
-</a>
-
-<a href="https://github.com/shauryxdev?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-VIEW-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
-</a>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/shauryxdev/shauryxdev/main/assets/profile-stats.svg"
+    width="780"
+    alt="GitHub Profile Statistics"
+  />
+</p>
 
 <a href="https://shauryxdev.netlify.app">
 <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827"/>
