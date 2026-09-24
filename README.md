@@ -4,15 +4,7 @@
 
 <h3>Web & Android Developer • SaaS Builder • AI Enthusiast</h3>
 
-<br><br>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/shauryxdev/shauryxdev/main/assets/profile-stats.svg"
-    width="780"
-    alt="GitHub Profile Statistics"
-  />
-</p>
+<br>
 
 <a href="https://shauryxdev.netlify.app">
 <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827"/>
