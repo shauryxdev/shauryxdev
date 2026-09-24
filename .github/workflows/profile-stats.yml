@@ -1,0 +1,100 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get GitHub statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          USERNAME="${{ github.repository_owner }}"
+
+          RESPONSE=$(curl -sS \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            "https://api.github.com/users/$USERNAME")
+
+          FOLLOWERS=$(echo "$RESPONSE" | jq -r '.followers')
+          FOLLOWING=$(echo "$RESPONSE" | jq -r '.following')
+          REPOS=$(echo "$RESPONSE" | jq -r '.public_repos')
+
+          echo "Followers: $FOLLOWERS"
+          echo "Following: $FOLLOWING"
+          echo "Repositories: $REPOS"
+
+          mkdir -p assets
+
+          cat > assets/profile-stats.svg <<EOF
+          <svg xmlns="http://www.w3.org/2000/svg" width="780" height="150">
+            <rect width="780" height="150" rx="20" fill="#0d1117" stroke="#30363d"/>
+
+            <text x="130" y="45" text-anchor="middle"
+                  font-family="Arial" font-size="14"
+                  font-weight="bold" fill="#a78bfa">
+              FOLLOWERS
+            </text>
+
+            <text x="130" y="95" text-anchor="middle"
+                  font-family="Arial" font-size="32"
+                  font-weight="bold" fill="white">
+              $FOLLOWERS
+            </text>
+
+            <text x="390" y="45" text-anchor="middle"
+                  font-family="Arial" font-size="14"
+                  font-weight="bold" fill="#22d3ee">
+              FOLLOWING
+            </text>
+
+            <text x="390" y="95" text-anchor="middle"
+                  font-family="Arial" font-size="32"
+                  font-weight="bold" fill="white">
+              $FOLLOWING
+            </text>
+
+            <text x="650" y="45" text-anchor="middle"
+                  font-family="Arial" font-size="14"
+                  font-weight="bold" fill="#4ade80">
+              REPOSITORIES
+            </text>
+
+            <text x="650" y="95" text-anchor="middle"
+                  font-family="Arial" font-size="32"
+                  font-weight="bold" fill="white">
+              $REPOS
+            </text>
+
+            <text x="390" y="130" text-anchor="middle"
+                  font-family="Arial" font-size="10"
+                  fill="#8b949e">
+              GitHub Profile Statistics
+            </text>
+          </svg>
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/profile-stats.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update profile statistics"
+            git push
+          fi
