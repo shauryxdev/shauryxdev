@@ -1,7 +1,4 @@
-@'
 <div align="center">
-
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Shaurya&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Web%20%26%20Android%20Developer&descAlignY=60&descSize=22&animation=fadeIn](https://avatars.githubusercontent.com/u/293213704?v=4)" width="100%"/>
 
 <h2>👋 Hey there! I'm Shaurya</h2>
 
