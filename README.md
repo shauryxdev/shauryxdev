@@ -1,64 +1,83 @@
 <div align="center">
 
-<h2>👋 Hey there! I'm Shaurya</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:17104A,75:302B63,100:06B6D4&text=SHAURYA&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=WEB%20%26%20ANDROID%20DEVELOPER&descAlignY=61&descSize=21&animation=fadeIn" width="100%"/>
 
-<p>
-<b>Web & Android Developer</b> •
-<b>SaaS Builder</b> •
-<b>AI Enthusiast</b>
-</p>
+<br>
 
-<p>Building modern applications, SaaS products and useful developer tools.</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+%F0%9F%8C%90;Building+Android+Applications+%F0%9F%93%B1;Creating+SaaS+Products+%F0%9F%9A%80;Exploring+AI+%26+Automation+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%E2%9A%A1" alt="Typing SVG"/>
 
-<p>
-<a href="https://shauryxdev.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-8B5CF6?style=for-the-badge"/>
-</a>
+<br><br>
+
 <a href="https://github.com/shauryxdev">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/shauryxdev?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=111827"/>
 </a>
+
+<a href="https://github.com/shauryxdev?tab=following">
+<img src="https://img.shields.io/github/following/shauryxdev?label=FOLLOWING&style=for-the-badge&logo=github&logoColor=white&color=06B6D4&labelColor=111827"/>
+</a>
+
+<a href="https://github.com/shauryxdev?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+</a>
+
+<a href="https://shauryxdev.netlify.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/shauryxdev">
+<img src="https://img.shields.io/badge/GitHub-SHAURYXDEV-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="mailto:shauryxdev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+
+## 👨‍💻 `whoami`
+
+<img src="https://img.shields.io/badge/ROLE-Web%20%26%20Android%20Developer-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SaaS%20%26%20Mobile-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORING-AI%20%26%20Automation-EC4899?style=for-the-badge"/>
+
+</div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-<h3>🚀 Developer Profile</h3>
+### 🚀 About Me
 
-<ul>
-<li>🔭 Currently building <b>Commentix</b></li>
-<li>📱 Android & Web Developer</li>
-<li>🌐 Full-stack application development</li>
-<li>🤖 Exploring AI-powered tools & automation</li>
-<li>🏗️ Interested in SaaS & real-world products</li>
-<li>🗄️ Working with modern databases & APIs</li>
-<li>☁️ Learning scalable deployment & backend architecture</li>
-<li>💡 Turning ideas into working applications</li>
-</ul>
+- 🔭 Building **Commentix**
+- 📱 Developing modern **Android applications**
+- 🌐 Building modern **Web applications**
+- 🤖 Exploring **AI-powered tools**
+- 🏗️ Creating **SaaS products**
+- 🗄️ Working with databases, APIs & backend systems
+- ☁️ Exploring scalable cloud deployment
+- 💡 Turning ideas into real products
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-<h3>⚡ Quick Facts</h3>
+### ⚡ Developer Terminal
 
 <p>
-👨‍💻 <b>Role:</b> Web & Android Developer<br><br>
-🚀 <b>Building:</b> SaaS + Mobile Apps<br><br>
-🤖 <b>Exploring:</b> AI & Automation<br><br>
-📱 <b>Mobile:</b> Android + Kotlin<br><br>
-🌐 <b>Web:</b> Next.js + TypeScript<br><br>
-🗄️ <b>Backend:</b> Node.js + Supabase<br><br>
-☕ <b>Fuel:</b> Coffee 😂
+<span>👤</span> <b>Developer</b><br>
+<span>🌐</span> <b>Web Development</b><br>
+<span>📱</span> <b>Android Development</b><br>
+<span>🚀</span> <b>SaaS Development</b><br>
+<span>🤖</span> <b>AI & Automation</b><br>
+<span>🗄️</span> <b>Backend & Databases</b><br>
+<span>☁️</span> <b>Cloud & Deployment</b><br>
+<span>☕</span> <b>Powered by Coffee</b>
 </p>
 
 </td>
@@ -67,52 +86,66 @@
 
 ---
 
-## 🔥 What I'm Working On
+<div align="center">
+
+# 🚀 What I'm Building
+
+</div>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h2>🚀 Commentix</h2>
+<div align="center">
+
+<img src="https://img.shields.io/badge/🚀-COMMENTIX-8B5CF6?style=for-the-badge"/>
 
 <h3>Instagram Automation SaaS</h3>
+
+</div>
 
 <p>
 A full-stack SaaS platform focused on Instagram comment-to-DM automation using Meta APIs, webhooks and modern backend infrastructure.
 </p>
 
-<p><b>Tech Stack</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
 
-<p>
-<code>Next.js</code>
-<code>TypeScript</code>
-<code>Prisma</code>
-<code>Supabase</code>
-<code>PostgreSQL</code>
-<code>Meta API</code>
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta%20API-0668E1?style=flat-square&logo=meta&logoColor=white"/>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2>⚖️ Law Cent</h2>
+<div align="center">
+
+<img src="https://img.shields.io/badge/⚖️-LAW%20CENT-06B6D4?style=for-the-badge"/>
 
 <h3>Legal Education Platform</h3>
 
+</div>
+
 <p>
-A modern Android learning platform featuring course enrollment, lectures, PDFs, live classes, authentication and an admin dashboard.
+A modern Android learning platform featuring authentication, course enrollment, lectures, PDFs, live classes, student access and an admin dashboard.
 </p>
 
-<p><b>Tech Stack</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+</p>
 
-<p>
-<code>Kotlin</code>
-<code>Android</code>
-<code>Jetpack Compose</code>
-<code>Supabase</code>
-<code>Firebase</code>
+<p align="center">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
 </td>
@@ -122,155 +155,142 @@ A modern Android learning platform featuring course enrollment, lectures, PDFs, 
 
 ---
 
+<div align="center">
+
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,python,html,css,cpp&perline=8&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,python,html,css,cpp&perline=8"/>
-</p>
+<br><br>
 
-## 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,flask,prisma&perline=8&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&perline=8"/>
-</p>
+<br><br>
 
-## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=androidstudio,android,firebase,supabase,postgres,mysql&perline=8&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,prisma&perline=8"/>
-</p>
+<br><br>
 
-## 📱 Android Development
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,photoshop,linux,aws&perline=8&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java&perline=8"/>
-</p>
-
-## 🗄️ Databases & Backend Services
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase&perline=8"/>
-</p>
-
-## ☁️ Cloud & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,aws,gcp,linux&perline=8"/>
-</p>
-
-## 🔧 Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,photoshop&perline=8"/>
-</p>
+</div>
 
 ---
 
-# ⚡ My Development Arsenal
-
 <div align="center">
+
+# ⚡ Core Technologies
+
+<table>
+<tr>
+<td align="center">
+
+### 💻 Languages
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<br>
+</td>
+
+<td align="center">
+
+### 🌐 Web
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<br>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<tr>
+<td align="center">
 
-<br>
+### 📱 Android
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+### 🗄️ Backend
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
+
+# 📊 GitHub Overview
+
+<a href="https://github.com/shauryxdev">
+<img src="https://img.shields.io/github/followers/shauryxdev?style=for-the-badge&label=Followers&logo=github&logoColor=white&color=8B5CF6"/>
+</a>
+
+<a href="https://github.com/shauryxdev?tab=following">
+<img src="https://img.shields.io/github/following/shauryxdev?style=for-the-badge&label=Following&logo=github&logoColor=white&color=06B6D4"/>
+</a>
+
+<a href="https://github.com/shauryxdev?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-View-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=shauryxdev&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4" width="700"/>
+
+</div>
+
+---
+
+# 📈 Development Activity
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
-<h2>🚀 Commentix</h2>
-<h3>Instagram Automation SaaS</h3>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-
-</div>
+<h3>🌱 Currently Learning</h3>
 
 <p>
-A full-stack SaaS platform designed around Instagram comment-to-DM automation.
+<img src="https://img.shields.io/badge/AI%20Tools-8B5CF6?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-EC4899?style=flat-square&logo=robotframework&logoColor=white"/>
 </p>
 
-<p><b>Core Technologies</b></p>
-
-<ul>
-<li>Next.js</li>
-<li>TypeScript</li>
-<li>Prisma</li>
-<li>PostgreSQL</li>
-<li>Supabase</li>
-<li>Meta Graph API</li>
-<li>Instagram Messaging API</li>
-<li>Webhooks</li>
-</ul>
+<p>
+<img src="https://img.shields.io/badge/Advanced%20Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend%20Architecture-0EA5E9?style=flat-square&logo=serverless&logoColor=white"/>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
-<h2>⚖️ Law Cent</h2>
-<h3>Legal Education Platform</h3>
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-
-</div>
+<h3>🎯 Development Focus</h3>
 
 <p>
-A modern Android learning platform for courses, lectures, PDFs and live classes.
+🚀 SaaS Products<br>
+📱 Android Applications<br>
+🌐 Full-Stack Web Apps<br>
+🤖 AI Integrations<br>
+🔐 Authentication & APIs<br>
+🗄️ Database Architecture
 </p>
-
-<p><b>Core Features</b></p>
-
-<ul>
-<li>Authentication</li>
-<li>Course enrollment</li>
-<li>Student dashboard</li>
-<li>Video lectures</li>
-<li>PDF materials</li>
-<li>Live classes</li>
-<li>Admin dashboard</li>
-<li>Push notifications</li>
-<li>Supabase backend</li>
-</ul>
 
 </td>
 
@@ -279,56 +299,12 @@ A modern Android learning platform for courses, lectures, PDFs and live classes.
 
 ---
 
-# 📊 GitHub Statistics
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shauryxdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryxdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shauryxdev&theme=tokyonight&hide_border=true" width="700"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shauryxdev/shauryxdev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%20Tools%20%26%20Automation-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Advanced%20Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend%20Architecture-0EA5E9?style=for-the-badge&logo=serverless&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scalable%20SaaS-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</div>
-
----
 
 # 💬 Ask Me About
 
-<div align="center">
-
-<code>Android Development</code>
+<p>
+<code>Android</code>
 <code>Kotlin</code>
 <code>Jetpack Compose</code>
 <code>Java</code>
@@ -340,16 +316,17 @@ A modern Android learning platform for courses, lectures, PDFs and live classes.
 <code>Supabase</code>
 <code>PostgreSQL</code>
 <code>REST APIs</code>
-<code>SaaS Development</code>
-<code>AI API Integration</code>
+<code>SaaS</code>
+<code>AI APIs</code>
+</p>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
+
+# 🌐 Connect With Me
 
 <a href="https://github.com/shauryxdev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -375,25 +352,18 @@ A modern Android learning platform for courses, lectures, PDFs and live classes.
 
 ---
 
-# ☕ Fun Fact
-
 <div align="center">
 
-<p>
-<b>"I think I can code for 2 regular days with 2 cups of coffee 😂"</b>
-</p>
+## ☕ Fun Fact
 
-<p>
-💡 <i>Turning ideas into real products, one commit at a time.</i>
-</p>
+<b>I think I can code for 2 regular days with 2 cups of coffee 😂</b>
 
-</div>
+<br><br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Always+Building.;Always+Learning.;Always+Experimenting.;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" alt="Typing"/>
 
-<div align="center">
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050816,45:17104A,75:302B63,100:06B6D4&animation=fadeIn" width="100%"/>
 
 </div>
-'@ | Set-Content -Path README.md -Encoding UTF8
