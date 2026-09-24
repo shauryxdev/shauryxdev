@@ -1,14 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/shauryxdev">
-<img src="https://github.com/shauryxdev.png?size=200" width="140" height="140" style="border-radius:50%"/>
-</a>
-
 <h1>👋 Hi, I'm Shaurya</h1>
 
 <h3>Web & Android Developer • SaaS Builder • AI Enthusiast</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+%F0%9F%8C%90;Building+Android+Applications+%F0%9F%93%B1;Creating+SaaS+Products+%F0%9F%9A%80;Exploring+AI+%26+Automation+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%E2%9A%A1" alt="Typing SVG"/>
 
 <br><br>
 
