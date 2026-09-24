@@ -1,38 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:17104A,75:302B63,100:06B6D4&text=SHAURYA&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=WEB%20%26%20ANDROID%20DEVELOPER&descAlignY=61&descSize=21&animation=fadeIn" width="100%"/>
+<a href="https://github.com/shauryxdev">
+<img src="https://github.com/shauryxdev.png?size=200" width="140" height="140" style="border-radius:50%"/>
+</a>
 
-<br>
+<h1>👋 Hi, I'm Shaurya</h1>
+
+<h3>Web & Android Developer • SaaS Builder • AI Enthusiast</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+%F0%9F%8C%90;Building+Android+Applications+%F0%9F%93%B1;Creating+SaaS+Products+%F0%9F%9A%80;Exploring+AI+%26+Automation+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%E2%9A%A1" alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://github.com/shauryxdev">
-<img src="https://img.shields.io/github/followers/shauryxdev?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=111827"/>
+<img src="https://img.shields.io/github/followers/shauryxdev?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=8B5CF6&labelColor=111827"/>
 </a>
 
 <a href="https://github.com/shauryxdev?tab=following">
-<img src="https://img.shields.io/github/following/shauryxdev?label=FOLLOWING&style=for-the-badge&logo=github&logoColor=white&color=06B6D4&labelColor=111827"/>
+<img src="https://img.shields.io/github/following/shauryxdev?style=for-the-badge&label=FOLLOWING&logo=github&logoColor=white&color=06B6D4&labelColor=111827"/>
 </a>
 
 <a href="https://github.com/shauryxdev?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/REPOSITORIES-VIEW-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
 </a>
 
 <a href="https://shauryxdev.netlify.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/shauryxdev">
-<img src="https://img.shields.io/badge/GitHub-SHAURYXDEV-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:shauryxdev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,python,nextjs,react,nodejs,androidstudio,supabase&perline=10&theme=dark"/>
 
 </div>
 
