@@ -34,7 +34,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Building **Commentix**
+- 🔭 Building **Commentice**
 - 📱 Developing modern **Android applications**
 - 🌐 Building modern **Web applications**
 - 🤖 Exploring **AI-powered tools**
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🚀-COMMENTIX-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀-COMMENTICE-8B5CF6?style=for-the-badge"/>
 
 <h3>Instagram Automation SaaS</h3>
 
